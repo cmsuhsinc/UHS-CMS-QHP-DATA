@@ -1,5 +1,11 @@
 {
+    "provider_urls": [
+      "https://cmsuhsinc.github.io/UHS-CMS-QHP-DATA/data/providers.json"
+    ],
+    "formulary_urls": [
+      "https://cmsuhsinc.github.io/UHS-CMS-QHP-DATA/data/drugs.json"
+    ],
     "plan_urls": [
-      "https://raw.githubusercontent.com/cmsuhsinc/UHS-CMS-QHP-DATA/master/plans.json"
+      "https://cmsuhsinc.github.io/UHS-CMS-QHP-DATA/data/plans.json"
     ]
 }
